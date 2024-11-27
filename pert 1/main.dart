@@ -24,7 +24,7 @@ void main(){
   //operator
   var a = 1;
   var b = 2;
-  assert(a == b);
+  // assert(a == b);
   var c = a+b;
   print(c);
   int? d;
@@ -50,7 +50,7 @@ void main(){
   int a1 = 1, b1 = 3;
   while(a1 < b1){
     print("a");
-    a++;
+    a1++;
   }
 
   //object
