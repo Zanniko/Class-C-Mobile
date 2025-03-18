@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508697416167",
+    "project_id": "pert-10-9e38e",
+    "storage_bucket": "pert-10-9e38e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508697416167:android:d5f7216fc160810e026d42",
+        "android_client_info": {
+          "package_name": "com.example.pert_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVgP9JTDlJNKdVs-5--B7UEhyCDW2M0lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

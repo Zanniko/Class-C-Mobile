@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977936030034",
+    "project_id": "pert-11-89caf",
+    "storage_bucket": "pert-11-89caf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977936030034:android:2509b02c8c0079b6ed028b",
+        "android_client_info": {
+          "package_name": "com.example.pert_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oMmsUZR_AQgOTtDOWAMDryRF1PkCqJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
