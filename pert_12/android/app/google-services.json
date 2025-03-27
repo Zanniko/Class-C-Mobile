@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021824979602",
+    "project_id": "sesi-12-ed3bf",
+    "storage_bucket": "sesi-12-ed3bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021824979602:android:bbdfa122d08d15cadfcc4b",
+        "android_client_info": {
+          "package_name": "com.example.pert_12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxQ-lN8tLYcewjjFiPntvmJpFguui65o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
